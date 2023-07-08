@@ -1,2 +1,2 @@
 // export default {URLAPI: 'http://localhost:3333'}
-export default { URLAPI: 'http://api.elosaudesinop.com.br' }
+export default { URLAPI: 'https://api.elosaudesinop.com.br' }
